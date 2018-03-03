@@ -1,0 +1,7 @@
+name: blast_reporting
+owner: dfornika
+description: Parse blast output into a flexible tablular output
+homepage_url: https://github.com/dfornika/blast_reporting
+long_description: 
+remote_repository_url: https://github.com/dfornika/blast_reporting
+type: unrestricted
