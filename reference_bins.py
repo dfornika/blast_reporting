@@ -90,7 +90,7 @@ class ReferenceBins:
 				file_in.close()
 			
 		except IOError:
-		   stop_err("Reference bin could not be found or opened: " + self.path + bin_folder_name + '/accession_ids.tab')
+		   common.stop_err("Reference bin could not be found or opened: " + bin.file_path)
 		
 		return bin
 
